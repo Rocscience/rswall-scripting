@@ -27,8 +27,8 @@ constants where provided (for example
 
    RSWallModeler
    ApplicationManager
-   wall
-   material
+   Wall
+   Material
    GravityWallProfile
    CantileverWallProfile
    AbutmentWallProfile
@@ -36,7 +36,7 @@ constants where provided (for example
    GabionWallUnit
    MSESectionProfile
    GabionSectionProfile
-   reinforcement
+   Reinforcement
    LineLoad
    UniformLoad
    PointLoad
