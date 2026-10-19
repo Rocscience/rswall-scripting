@@ -1,0 +1,997 @@
+<RSWallProjectModel xmlns="http://schemas.datacontract.org/2004/07/RSWall_Model" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <abutmentSectionProperties>
+    <AbutmentWallSectionProfileDataModel>
+      <ID>33817c10-f88d-4c76-90cb-22380b8d9150</ID>
+      <Name>Profile 1</Name>
+      <color xmlns:a="http://schemas.datacontract.org/2004/07/System.Windows.Media">
+        <a:A>255</a:A>
+        <a:B>128</a:B>
+        <a:G>127</a:G>
+        <a:R>126</a:R>
+        <a:ScA>1</a:ScA>
+        <a:ScB>0.215860531</a:ScB>
+        <a:ScG>0.212230757</a:ScG>
+        <a:ScR>0.208636865</a:ScR>
+      </color>
+      <Dimensions>
+        <DimensionallyDefinedDimension>
+          <Name>b1</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>1</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>b2</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>1</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>b3</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>1</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>b4</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>2</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>h1</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>0.5</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>h2</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>1</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>h3</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>1.5</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+      </Dimensions>
+      <ElevationAtToe xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0</a:_valueSI>
+      </ElevationAtToe>
+      <UnitWeight xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>20000</a:_valueSI>
+      </UnitWeight>
+    </AbutmentWallSectionProfileDataModel>
+  </abutmentSectionProperties>
+  <cantileverSectionProperties>
+    <CantileverWallSectionProfileDataModel>
+      <ID>a3c92be1-ba95-4d53-867b-5fff6a2cfb1f</ID>
+      <Name>Profile 1</Name>
+      <color xmlns:a="http://schemas.datacontract.org/2004/07/System.Windows.Media">
+        <a:A>255</a:A>
+        <a:B>128</a:B>
+        <a:G>127</a:G>
+        <a:R>126</a:R>
+        <a:ScA>1</a:ScA>
+        <a:ScB>0.215860531</a:ScB>
+        <a:ScG>0.212230757</a:ScG>
+        <a:ScR>0.208636865</a:ScR>
+      </color>
+      <Dimensions>
+        <DimensionallyDefinedDimension>
+          <Name>b1</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>3</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>b2</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>0.5</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>b3</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>1</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>b4</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>5</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>b5</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>0</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>b6</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>0</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>h1</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>0</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>h2</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>0.5</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>h3</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>7.5</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+      </Dimensions>
+      <ElevationAtToe xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0</a:_valueSI>
+      </ElevationAtToe>
+      <UnitWeight xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>20000</a:_valueSI>
+      </UnitWeight>
+    </CantileverWallSectionProfileDataModel>
+  </cantileverSectionProperties>
+  <descriptionSetting>
+    <_x003C_analysis_x003E_k__BackingField xmlns="http://schemas.datacontract.org/2004/07/RFC" />
+    <_x003C_author_x003E_k__BackingField xmlns="http://schemas.datacontract.org/2004/07/RFC" />
+    <_x003C_comment1_x003E_k__BackingField xmlns="http://schemas.datacontract.org/2004/07/RFC" />
+    <_x003C_comment2_x003E_k__BackingField xmlns="http://schemas.datacontract.org/2004/07/RFC" />
+    <_x003C_comment3_x003E_k__BackingField xmlns="http://schemas.datacontract.org/2004/07/RFC" />
+    <_x003C_comment4_x003E_k__BackingField xmlns="http://schemas.datacontract.org/2004/07/RFC" />
+    <_x003C_comment5_x003E_k__BackingField xmlns="http://schemas.datacontract.org/2004/07/RFC" />
+    <_x003C_company_x003E_k__BackingField xmlns="http://schemas.datacontract.org/2004/07/RFC" />
+    <_x003C_date_created_x003E_k__BackingField xmlns="http://schemas.datacontract.org/2004/07/RFC">Created on 03/19/2025 15:47:22</_x003C_date_created_x003E_k__BackingField>
+    <_x003C_project_title_x003E_k__BackingField xmlns="http://schemas.datacontract.org/2004/07/RFC">Project1</_x003C_project_title_x003E_k__BackingField>
+  </descriptionSetting>
+  <fileVersion>0.001</fileVersion>
+  <gabionSectionProperties>
+    <GabionWallSectionProfileDataModel>
+      <ID>d068c5c1-022e-484f-974c-c0a01ca50a44</ID>
+      <Name>Profile 1</Name>
+      <color xmlns:a="http://schemas.datacontract.org/2004/07/System.Windows.Media">
+        <a:A>255</a:A>
+        <a:B>128</a:B>
+        <a:G>127</a:G>
+        <a:R>126</a:R>
+        <a:ScA>1</a:ScA>
+        <a:ScB>0.215860531</a:ScB>
+        <a:ScG>0.212230757</a:ScG>
+        <a:ScR>0.208636865</a:ScR>
+      </color>
+      <BasketTiltAngle xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueRadians>0.087266462599716474</a:_valueRadians>
+      </BasketTiltAngle>
+      <ElevationAtToe xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0</a:_valueSI>
+      </ElevationAtToe>
+      <LayerSetbackDistance xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0.0254</a:_valueSI>
+      </LayerSetbackDistance>
+      <UniformBasketCount>1</UniformBasketCount>
+      <UniformWallLayer>b173323f-bfd3-47e6-9082-56b0bc430a27</UniformWallLayer>
+      <UseUniformBasketCount>false</UseUniformBasketCount>
+      <UseUniformWallUnitData>false</UseUniformWallUnitData>
+      <WallLayers>
+        <GabionWallLayer>
+          <NumberOfBaskets>1</NumberOfBaskets>
+          <WallUnitPropertyID>b173323f-bfd3-47e6-9082-56b0bc430a27</WallUnitPropertyID>
+        </GabionWallLayer>
+        <GabionWallLayer>
+          <NumberOfBaskets>1</NumberOfBaskets>
+          <WallUnitPropertyID>b173323f-bfd3-47e6-9082-56b0bc430a27</WallUnitPropertyID>
+        </GabionWallLayer>
+        <GabionWallLayer>
+          <NumberOfBaskets>1</NumberOfBaskets>
+          <WallUnitPropertyID>b173323f-bfd3-47e6-9082-56b0bc430a27</WallUnitPropertyID>
+        </GabionWallLayer>
+        <GabionWallLayer>
+          <NumberOfBaskets>1</NumberOfBaskets>
+          <WallUnitPropertyID>b173323f-bfd3-47e6-9082-56b0bc430a27</WallUnitPropertyID>
+        </GabionWallLayer>
+        <GabionWallLayer>
+          <NumberOfBaskets>1</NumberOfBaskets>
+          <WallUnitPropertyID>b173323f-bfd3-47e6-9082-56b0bc430a27</WallUnitPropertyID>
+        </GabionWallLayer>
+      </WallLayers>
+    </GabionWallSectionProfileDataModel>
+  </gabionSectionProperties>
+  <gravitySectionProperties>
+    <GravityWallSectionProfileDataModel>
+      <ID>4aa770e6-4c48-49a8-8d30-184e48bbad38</ID>
+      <Name>Profile 1</Name>
+      <color xmlns:a="http://schemas.datacontract.org/2004/07/System.Windows.Media">
+        <a:A>255</a:A>
+        <a:B>128</a:B>
+        <a:G>127</a:G>
+        <a:R>126</a:R>
+        <a:ScA>1</a:ScA>
+        <a:ScB>0.215860531</a:ScB>
+        <a:ScG>0.212230757</a:ScG>
+        <a:ScR>0.208636865</a:ScR>
+      </color>
+      <Dimensions>
+        <DimensionallyDefinedDimension>
+          <Name>b1</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>1</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>b2</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>1</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>b3</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>1</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>b4</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>1</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>b5</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>1</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>h1</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>0</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>h2</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>1</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+        <DimensionallyDefinedDimension>
+          <Name>h3</Name>
+          <value xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>5</a:_valueSI>
+          </value>
+        </DimensionallyDefinedDimension>
+      </Dimensions>
+      <ElevationAtToe xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0</a:_valueSI>
+      </ElevationAtToe>
+      <UnitWeight xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>20000</a:_valueSI>
+      </UnitWeight>
+    </GravityWallSectionProfileDataModel>
+  </gravitySectionProperties>
+  <lastFileSaveTime>2025-03-19T15:50:49.181231+07:00</lastFileSaveTime>
+  <lineLoadNodes />
+  <loadProperties>
+    <LoadDataModel>
+      <Classification>
+        <ID>Live</ID>
+        <Name>Live</Name>
+      </Classification>
+      <DepthBelowSurface xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0</a:_valueSI>
+      </DepthBelowSurface>
+      <Direction>
+        <ID>Vertical</ID>
+        <Name>Vertical</Name>
+      </Direction>
+      <Distribution i:type="UniformDistributedLoad">
+        <ID>Uniform</ID>
+        <Magnitude xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+          <a:_valueSI>10000</a:_valueSI>
+        </Magnitude>
+        <Name>Uniformly Distributed Load</Name>
+        <OffsetToBeginning xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+          <a:_valueSI>0</a:_valueSI>
+        </OffsetToBeginning>
+      </Distribution>
+      <ID>4081e509-9d04-4bd7-9a61-33ecf8a78908</ID>
+      <Name>Load 1</Name>
+      <Psi0 xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_value>1</a:_value>
+      </Psi0>
+      <Psi2 xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_value>1</a:_value>
+      </Psi2>
+      <PsiC xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_value>1</a:_value>
+      </PsiC>
+      <color xmlns:a="http://schemas.datacontract.org/2004/07/System.Windows.Media">
+        <a:A>255</a:A>
+        <a:B>32</a:B>
+        <a:G>3</a:G>
+        <a:R>252</a:R>
+        <a:ScA>1</a:ScA>
+        <a:ScB>0.0144438446</a:ScB>
+        <a:ScG>0.000910581</a:ScG>
+        <a:ScR>0.9734453</a:ScR>
+      </color>
+    </LoadDataModel>
+  </loadProperties>
+  <mseSectionProperties>
+    <MSEWallSectionProfileDataModel>
+      <ID>5631ad37-c666-4db4-892c-b3966cbe1582</ID>
+      <Name>Profile 1</Name>
+      <color xmlns:a="http://schemas.datacontract.org/2004/07/System.Windows.Media">
+        <a:A>255</a:A>
+        <a:B>128</a:B>
+        <a:G>127</a:G>
+        <a:R>126</a:R>
+        <a:ScA>1</a:ScA>
+        <a:ScB>0.215860531</a:ScB>
+        <a:ScG>0.212230757</a:ScG>
+        <a:ScR>0.208636865</a:ScR>
+      </color>
+      <AngleBatter xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueRadians>0.087266462599716474</a:_valueRadians>
+      </AngleBatter>
+      <BottomLayerElevation xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0</a:_valueSI>
+      </BottomLayerElevation>
+      <LayerSetbackDistance xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0.025</a:_valueSI>
+      </LayerSetbackDistance>
+      <UniformWallLayer>55fbfed9-5104-4632-9ba6-800acbba49f3</UniformWallLayer>
+      <UseLayerSetbackDistance>true</UseLayerSetbackDistance>
+      <UseUniformWallUnitData>true</UseUniformWallUnitData>
+      <WallLayers xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <a:string>55fbfed9-5104-4632-9ba6-800acbba49f3</a:string>
+        <a:string>55fbfed9-5104-4632-9ba6-800acbba49f3</a:string>
+        <a:string>55fbfed9-5104-4632-9ba6-800acbba49f3</a:string>
+        <a:string>55fbfed9-5104-4632-9ba6-800acbba49f3</a:string>
+        <a:string>55fbfed9-5104-4632-9ba6-800acbba49f3</a:string>
+        <a:string>55fbfed9-5104-4632-9ba6-800acbba49f3</a:string>
+        <a:string>55fbfed9-5104-4632-9ba6-800acbba49f3</a:string>
+        <a:string>55fbfed9-5104-4632-9ba6-800acbba49f3</a:string>
+        <a:string>55fbfed9-5104-4632-9ba6-800acbba49f3</a:string>
+        <a:string>55fbfed9-5104-4632-9ba6-800acbba49f3</a:string>
+      </WallLayers>
+    </MSEWallSectionProfileDataModel>
+  </mseSectionProperties>
+  <pointLoadNodes />
+  <projectSettings>
+    <AdvancedSettings>
+      <WaterUnitWeight xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>9810</a:_valueSI>
+      </WaterUnitWeight>
+      <poreWaterPressureLocation>
+        <Location>Averaged</Location>
+      </poreWaterPressureLocation>
+    </AdvancedSettings>
+    <DesignStandardSettings>
+      <Approach1Combination1>true</Approach1Combination1>
+      <Approach1Combination2>true</Approach1Combination2>
+      <Approach2>true</Approach2>
+      <Approach3>true</Approach3>
+      <CaseA>true</CaseA>
+      <CaseB>true</CaseB>
+      <CaseC>false</CaseC>
+      <Equilibrium>false</Equilibrium>
+      <Extreme>true</Extreme>
+      <SelectedDesignStandard i:type="a:AA_2020" xmlns:a="http://schemas.datacontract.org/2004/07/RSWall_Model.AASHTO" />
+      <Service>false</Service>
+      <Strength>true</Strength>
+      <UserDefinedDesignStandards xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <aashtoAdvancedSettings>
+        <IncludeBlockToBlockSlidingResistanceForReinforcementLayers>false</IncludeBlockToBlockSlidingResistanceForReinforcementLayers>
+        <AssumeSeismicSurchargeActiveHorizontal>false</AssumeSeismicSurchargeActiveHorizontal>
+        <CwMethod>USE_AVG_EFF_UW</CwMethod>
+        <FstarFunctionDepthMeasuredFromGroundTopo>true</FstarFunctionDepthMeasuredFromGroundTopo>
+        <IgnoreBatterWhenCalculatingKa>false</IgnoreBatterWhenCalculatingKa>
+        <IgnoreEmbedmentDepthForBearingCapacity>false</IgnoreEmbedmentDepthForBearingCapacity>
+        <IgnoreWallFacingInSlidingAndBearingMSE>false</IgnoreWallFacingInSlidingAndBearingMSE>
+        <IncludeLoadInclinationFactorForBearingCapacity>false</IncludeLoadInclinationFactorForBearingCapacity>
+        <NormalizedHeightOfSeismicActiveForce>0.5</NormalizedHeightOfSeismicActiveForce>
+        <PhiCStiffnessMethod>1</PhiCStiffnessMethod>
+        <PhiFSStiffnessMethod>1</PhiFSStiffnessMethod>
+        <ProportionOfH1ForPullout>0.3</ProportionOfH1ForPullout>
+        <UseFHWASeismicMethod>false</UseFHWASeismicMethod>
+        <UseFWHAAverageZDuringTmax>false</UseFWHAAverageZDuringTmax>
+        <UseHingeMethodMSE>true</UseHingeMethodMSE>
+      </aashtoAdvancedSettings>
+      <australianAdvancedSettings>
+        <IncludeBlockToBlockSlidingResistanceForReinforcementLayers>false</IncludeBlockToBlockSlidingResistanceForReinforcementLayers>
+        <IncludeLoadInclinationFactorForBearingCapacity>true</IncludeLoadInclinationFactorForBearingCapacity>
+        <InternalZoneProportionOfH>0.3</InternalZoneProportionOfH>
+        <NormalizedHeightOfSeismicActiveForce>0.55</NormalizedHeightOfSeismicActiveForce>
+        <ReductionRatioForEac>1</ReductionRatioForEac>
+      </australianAdvancedSettings>
+      <britishAdvancedSettings>
+        <IncludeBlockToBlockSlidingResistanceForReinforcementLayers>false</IncludeBlockToBlockSlidingResistanceForReinforcementLayers>
+        <InternalZoneProportionOfH>0.3</InternalZoneProportionOfH>
+        <UseBSPrescribedValuesOfBeta>true</UseBSPrescribedValuesOfBeta>
+      </britishAdvancedSettings>
+      <eurocodeAdvancedSettings>
+        <IncludeBlockToBlockSlidingResistanceForReinforcementLayers>false</IncludeBlockToBlockSlidingResistanceForReinforcementLayers>
+        <ApplyMaterialFactorPhiToDelta>true</ApplyMaterialFactorPhiToDelta>
+        <IncludeLoadInclinationFactorForBearingCapacity>true</IncludeLoadInclinationFactorForBearingCapacity>
+        <InternalZoneProportionOfH>0.3</InternalZoneProportionOfH>
+        <UseBackfillSlopeAngleAsInterfaceFriction>false</UseBackfillSlopeAngleAsInterfaceFriction>
+      </eurocodeAdvancedSettings>
+      <ncmaAdvancedSettings>
+        <IncludeBlockToBlockSlidingResistanceForReinforcementLayers>false</IncludeBlockToBlockSlidingResistanceForReinforcementLayers>
+        <AllowNegativeEccentricity>false</AllowNegativeEccentricity>
+        <IgnoreInterfaceFrictionForKa>false</IgnoreInterfaceFrictionForKa>
+        <IgnoreResistingVerticalForces>false</IgnoreResistingVerticalForces>
+      </ncmaAdvancedSettings>
+    </DesignStandardSettings>
+    <FailureModes xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <a:anyType i:type="BaseSlidingFailureMode">
+        <MinimumFactorOfSafety>1.5</MinimumFactorOfSafety>
+        <SeismicMinimumFactorOfSafety>1.1</SeismicMinimumFactorOfSafety>
+        <Use>true</Use>
+      </a:anyType>
+      <a:anyType i:type="OverturningFailureMode">
+        <MinimumFactorOfSafety>1.5</MinimumFactorOfSafety>
+        <SeismicMinimumFactorOfSafety>1.1</SeismicMinimumFactorOfSafety>
+        <Use>true</Use>
+      </a:anyType>
+      <a:anyType i:type="BearingFailureMode">
+        <MinimumFactorOfSafety>2</MinimumFactorOfSafety>
+        <SeismicMinimumFactorOfSafety>1.1</SeismicMinimumFactorOfSafety>
+        <Use>true</Use>
+      </a:anyType>
+      <a:anyType i:type="InternalSlidingFailureMode">
+        <MinimumFactorOfSafety>1.5</MinimumFactorOfSafety>
+        <SeismicMinimumFactorOfSafety>1.1</SeismicMinimumFactorOfSafety>
+        <Use>true</Use>
+      </a:anyType>
+      <a:anyType i:type="TensileFailureMode">
+        <MinimumFactorOfSafety>1.5</MinimumFactorOfSafety>
+        <SeismicMinimumFactorOfSafety>1.1</SeismicMinimumFactorOfSafety>
+        <Use>true</Use>
+      </a:anyType>
+      <a:anyType i:type="PulloutFailureMode">
+        <MinimumFactorOfSafety>1.5</MinimumFactorOfSafety>
+        <SeismicMinimumFactorOfSafety>1.1</SeismicMinimumFactorOfSafety>
+        <Use>true</Use>
+      </a:anyType>
+      <a:anyType i:type="ConnectionFailureMode">
+        <MinimumFactorOfSafety>1.3</MinimumFactorOfSafety>
+        <SeismicMinimumFactorOfSafety>1.1</SeismicMinimumFactorOfSafety>
+        <Use>true</Use>
+      </a:anyType>
+      <a:anyType i:type="TopplingFailureMode">
+        <MinimumFactorOfSafety>1.5</MinimumFactorOfSafety>
+        <SeismicMinimumFactorOfSafety>1.1</SeismicMinimumFactorOfSafety>
+        <Use>true</Use>
+      </a:anyType>
+    </FailureModes>
+    <MethodologySettings>
+      <activePressureMethod>
+        <MethodVal>COULOMB</MethodVal>
+      </activePressureMethod>
+      <passivePressureMethod>
+        <MethodVal>CAQUOT_KERISEL</MethodVal>
+      </passivePressureMethod>
+      <tensileForceMethod>
+        <MethodVal>SIMPLIFIED</MethodVal>
+      </tensileForceMethod>
+    </MethodologySettings>
+    <SeismicSettings>
+      <Acceleration xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_value>0</a:_value>
+      </Acceleration>
+      <Deflection xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0</a:_valueSI>
+      </Deflection>
+      <DifferentKhForExternal xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_value>0</a:_value>
+      </DifferentKhForExternal>
+      <IncludeSeismic>false</IncludeSeismic>
+      <Kh xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_value>0</a:_value>
+      </Kh>
+      <Kv xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_value>0</a:_value>
+      </Kv>
+      <SelectedSeismicMethod>
+        <MethodName>Mononobe-Okabe</MethodName>
+      </SelectedSeismicMethod>
+      <UseDifferentKhForExternal>false</UseDifferentKhForExternal>
+    </SeismicSettings>
+    <WallTypeSettings>
+      <wallType i:type="WT_SRW" />
+    </WallTypeSettings>
+    <unitSystem>RFC_METRIC_KPA</unitSystem>
+  </projectSettings>
+  <reinforcementProperties>
+    <ReinforcementDataModel>
+      <CoeffAdhesion xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_value>0.9</a:_value>
+      </CoeffAdhesion>
+      <CoeffAlpha xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_value>0.8</a:_value>
+      </CoeffAlpha>
+      <CoeffDirectSliding xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_value>0.9</a:_value>
+      </CoeffDirectSliding>
+      <CoeffInteraction xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_value>0.9</a:_value>
+      </CoeffInteraction>
+      <Connection>
+        <FacingStiffessType>FLEXIBLE</FacingStiffessType>
+        <FunctionType i:type="ConstantConnectionFunction">
+          <ConstantStrength xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>20000</a:_valueSI>
+          </ConstantStrength>
+          <ID>Constant</ID>
+          <IsForceUnits>false</IsForceUnits>
+          <Name>Constant</Name>
+          <UnitConstantStrength xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+            <a:_valueSI>20000</a:_valueSI>
+          </UnitConstantStrength>
+        </FunctionType>
+      </Connection>
+      <Coverage xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_value>100</a:_value>
+      </Coverage>
+      <DesignStandardReinforcementData i:type="a:AASpecificReinforcementData" xmlns:a="http://schemas.datacontract.org/2004/07/RSWall_Model.AASHTO">
+        <a:PulloutStrengthExtreme>1</a:PulloutStrengthExtreme>
+        <a:PulloutStrengthStrength>0.7</a:PulloutStrengthStrength>
+        <a:TensileConnectionResistanceExtreme>1</a:TensileConnectionResistanceExtreme>
+        <a:TensileConnectionResistanceStrength>0.8</a:TensileConnectionResistanceStrength>
+      </DesignStandardReinforcementData>
+      <FstarFunction i:type="ConstantFrictionFactorFunction">
+        <ConstantValue xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+          <a:_value>0.4</a:_value>
+        </ConstantValue>
+        <ID>Constant</ID>
+        <Name>Constant</Name>
+      </FstarFunction>
+      <ID>75ea5dd0-8ff5-4842-938d-ac6baf6ce64f</ID>
+      <InterfaceSlidingFrictionAngle xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueRadians>0.3490658503988659</a:_valueRadians>
+      </InterfaceSlidingFrictionAngle>
+      <ManufacturerLibraryConnections>0</ManufacturerLibraryConnections>
+      <ManufacturerLibrarySelection>None</ManufacturerLibrarySelection>
+      <ManufacturerLibrarySelectionShort>None</ManufacturerLibrarySelectionShort>
+      <ManufacturerLibraryTooltip />
+      <Name>Reinforcement 1</Name>
+      <PulloutMethod>FRICTION_FACTOR</PulloutMethod>
+      <Type i:type="GeotextileReinforcementType">
+        <ID>Geotextile</ID>
+        <Name>Geotextile</Name>
+        <CreepReductionFactor xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+          <a:_value>1</a:_value>
+        </CreepReductionFactor>
+        <LTDS_Static xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+          <a:_valueSI>100000</a:_valueSI>
+        </LTDS_Static>
+        <SecantStiffness xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+          <a:_valueSI>1000000</a:_valueSI>
+        </SecantStiffness>
+      </Type>
+      <UltimateTensileStrength xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>100000</a:_valueSI>
+      </UltimateTensileStrength>
+      <color xmlns:a="http://schemas.datacontract.org/2004/07/System.Windows.Media">
+        <a:A>255</a:A>
+        <a:B>0</a:B>
+        <a:G>98</a:G>
+        <a:R>117</a:R>
+        <a:ScA>1</a:ScA>
+        <a:ScB>0</a:ScB>
+        <a:ScG>0.122138776</a:ScG>
+        <a:ScR>0.177888423</a:ScR>
+      </color>
+    </ReinforcementDataModel>
+  </reinforcementProperties>
+  <resultFilters />
+  <soilProperties>
+    <SoilDataModel>
+      <FillCondition>InSitu</FillCondition>
+      <FrictionAngle xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueRadians>0.52359877559829882</a:_valueRadians>
+      </FrictionAngle>
+      <ID>f2cfc381-0d7c-4145-95e5-781dc8da788d</ID>
+      <InterfaceAdhesionRatio xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_value>0</a:_value>
+      </InterfaceAdhesionRatio>
+      <InterfaceFrictionAngle xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueRadians>0.3490658503988659</a:_valueRadians>
+      </InterfaceFrictionAngle>
+      <Name>Soil 1</Name>
+      <PermanentCohesion xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0</a:_valueSI>
+      </PermanentCohesion>
+      <SaturatedUnitWeight xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>20000</a:_valueSI>
+      </SaturatedUnitWeight>
+      <UnitWeight xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>20000</a:_valueSI>
+      </UnitWeight>
+      <UseSaturatedUnitWeight>false</UseSaturatedUnitWeight>
+      <UseSeismicUndrainedConfined>false</UseSeismicUndrainedConfined>
+      <color xmlns:a="http://schemas.datacontract.org/2004/07/System.Windows.Media">
+        <a:A>255</a:A>
+        <a:B>195</a:B>
+        <a:G>147</a:G>
+        <a:R>167</a:R>
+        <a:ScA>1</a:ScA>
+        <a:ScB>0.5457245</a:ScB>
+        <a:ScG>0.291770667</a:ScG>
+        <a:ScR>0.386429459</a:ScR>
+      </color>
+    </SoilDataModel>
+    <SoilDataModel>
+      <FillCondition>InSitu</FillCondition>
+      <FrictionAngle xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueRadians>0.52359877559829882</a:_valueRadians>
+      </FrictionAngle>
+      <ID>6245903e-92c4-47e3-9d29-e3fc83350f44</ID>
+      <InterfaceAdhesionRatio xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_value>0</a:_value>
+      </InterfaceAdhesionRatio>
+      <InterfaceFrictionAngle xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueRadians>0.3490658503988659</a:_valueRadians>
+      </InterfaceFrictionAngle>
+      <Name>Soil 2</Name>
+      <PermanentCohesion xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0</a:_valueSI>
+      </PermanentCohesion>
+      <SaturatedUnitWeight xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>20000</a:_valueSI>
+      </SaturatedUnitWeight>
+      <UnitWeight xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>20000</a:_valueSI>
+      </UnitWeight>
+      <UseSaturatedUnitWeight>false</UseSaturatedUnitWeight>
+      <UseSeismicUndrainedConfined>false</UseSeismicUndrainedConfined>
+      <color xmlns:a="http://schemas.datacontract.org/2004/07/System.Windows.Media">
+        <a:A>255</a:A>
+        <a:B>142</a:B>
+        <a:G>234</a:G>
+        <a:R>226</a:R>
+        <a:ScA>1</a:ScA>
+        <a:ScB>0.270497829</a:ScB>
+        <a:ScG>0.822785735</a:ScG>
+        <a:ScR>0.7605245</a:ScR>
+      </color>
+    </SoilDataModel>
+    <SoilDataModel>
+      <FillCondition>InSitu</FillCondition>
+      <FrictionAngle xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueRadians>0.52359877559829882</a:_valueRadians>
+      </FrictionAngle>
+      <ID>08f0a5bc-4eb0-4078-ae77-a5ee3ef2cdf6</ID>
+      <InterfaceAdhesionRatio xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_value>0</a:_value>
+      </InterfaceAdhesionRatio>
+      <InterfaceFrictionAngle xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueRadians>0.3490658503988659</a:_valueRadians>
+      </InterfaceFrictionAngle>
+      <Name>Soil 3</Name>
+      <PermanentCohesion xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0</a:_valueSI>
+      </PermanentCohesion>
+      <SaturatedUnitWeight xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>20000</a:_valueSI>
+      </SaturatedUnitWeight>
+      <UnitWeight xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>20000</a:_valueSI>
+      </UnitWeight>
+      <UseSaturatedUnitWeight>false</UseSaturatedUnitWeight>
+      <UseSeismicUndrainedConfined>false</UseSeismicUndrainedConfined>
+      <color xmlns:a="http://schemas.datacontract.org/2004/07/System.Windows.Media">
+        <a:A>255</a:A>
+        <a:B>243</a:B>
+        <a:G>240</a:G>
+        <a:R>243</a:R>
+        <a:ScA>1</a:ScA>
+        <a:ScB>0.8962694</a:ScB>
+        <a:ScG>0.8713671</a:ScG>
+        <a:ScR>0.8962694</a:ScR>
+      </color>
+    </SoilDataModel>
+  </soilProperties>
+  <wallSectionDatas>
+    <WallDefinition>
+      <ID>f06e241a-eb2d-4a79-a23f-a01a606e606b</ID>
+      <Name>Wall 1</Name>
+      <WallUnitData />
+      <sections>
+        <SectionDefinition>
+          <ID>096e7122-59fa-4090-a005-dd064f20e299</ID>
+          <Name>Segment 1</Name>
+          <BottomElevation>0</BottomElevation>
+          <Data>
+            <BackSlope>
+              <ID>9057c7a1-ff9b-4a22-9327-0822cc0ed531</ID>
+              <TerrainType i:type="InfiniteTerrain">
+                <SlopeAngle xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+                  <a:_valueRadians>0</a:_valueRadians>
+                </SlopeAngle>
+              </TerrainType>
+            </BackSlope>
+            <Base>
+              <GroundwaterLocation>GWT_WELL_BELOW</GroundwaterLocation>
+              <SoilContact>PRECAST_ON_SAND</SoilContact>
+              <UseUserSpecfiedBearingCapacity>false</UseUserSpecfiedBearingCapacity>
+              <UserSpecifiedUnfactoredBearingCapacity xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+                <a:_valueSI>0</a:_valueSI>
+              </UserSpecifiedUnfactoredBearingCapacity>
+            </Base>
+            <FrontFace>
+              <ID>f18d238e-8c0d-4c52-8a93-acd92c9ee59d</ID>
+              <TerrainType i:type="InfiniteTerrain">
+                <SlopeAngle xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+                  <a:_valueRadians>0</a:_valueRadians>
+                </SlopeAngle>
+              </TerrainType>
+              <EmbedmentDepth xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+                <a:_valueSI>0.4</a:_valueSI>
+              </EmbedmentDepth>
+              <IsPassiveEnabled>false</IsPassiveEnabled>
+            </FrontFace>
+            <Groundwater>
+              <DoesWaterExtendIntoReinforcedZone>false</DoesWaterExtendIntoReinforcedZone>
+              <ElevWTBack xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+                <a:_valueSI>0</a:_valueSI>
+              </ElevWTBack>
+              <ElevWTConstant xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+                <a:_valueSI>0</a:_valueSI>
+              </ElevWTConstant>
+              <ElevWTFront xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+                <a:_valueSI>0</a:_valueSI>
+              </ElevWTFront>
+              <IsFrontFaceWTDefined>false</IsFrontFaceWTDefined>
+              <IsGroundwaterEnabled>false</IsGroundwaterEnabled>
+            </Groundwater>
+            <ID>d3da5e60-6a1c-4a6d-9d4f-dbd2c88896c1</ID>
+            <LevelingPad>
+              <IsEnabled>false</IsEnabled>
+              <PadDepth xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+                <a:_valueSI>0.15239999999999998</a:_valueSI>
+              </PadDepth>
+              <PadWidth xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+                <a:_valueSI>0.6096</a:_valueSI>
+              </PadWidth>
+              <Setback xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+                <a:_valueSI>0.07619999999999999</a:_valueSI>
+              </Setback>
+            </LevelingPad>
+            <Name />
+            <ReinforcementLayout i:type="AdvancedReinforcementLayout">
+              <Length xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+                <a:_valueSI>2.1</a:_valueSI>
+              </Length>
+              <ReinforcementProperty>75ea5dd0-8ff5-4842-938d-ac6baf6ce64f</ReinforcementProperty>
+              <ApplyUniformPlacement>true</ApplyUniformPlacement>
+              <ApplyUniformReinforcements>true</ApplyUniformReinforcements>
+              <ElevationFirstLayer xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+                <a:_valueSI>0</a:_valueSI>
+              </ElevationFirstLayer>
+              <ElevationSpacing xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+                <a:_valueSI>5</a:_valueSI>
+              </ElevationSpacing>
+              <HeightFirstLayer xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+                <a:_valueSI>0</a:_valueSI>
+              </HeightFirstLayer>
+              <HeightSpacing xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+                <a:_valueSI>5</a:_valueSI>
+              </HeightSpacing>
+              <NumCoursesBelowFirst>0</NumCoursesBelowFirst>
+              <NumCoursesBetween>1</NumCoursesBetween>
+              <ReinforcementLayers xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+                <a:anyType i:type="ReinforcementLayerByCourse">
+                  <Length xmlns:b="http://schemas.datacontract.org/2004/07/RSWallCore">
+                    <b:_valueSI>2.1</b:_valueSI>
+                  </Length>
+                  <NumCoursesBelow>0</NumCoursesBelow>
+                  <ReinforcementProperty>75ea5dd0-8ff5-4842-938d-ac6baf6ce64f</ReinforcementProperty>
+                </a:anyType>
+                <a:anyType i:type="ReinforcementLayerByCourse">
+                  <Length xmlns:b="http://schemas.datacontract.org/2004/07/RSWallCore">
+                    <b:_valueSI>2.1</b:_valueSI>
+                  </Length>
+                  <NumCoursesBelow>1</NumCoursesBelow>
+                  <ReinforcementProperty>75ea5dd0-8ff5-4842-938d-ac6baf6ce64f</ReinforcementProperty>
+                </a:anyType>
+                <a:anyType i:type="ReinforcementLayerByCourse">
+                  <Length xmlns:b="http://schemas.datacontract.org/2004/07/RSWallCore">
+                    <b:_valueSI>2.1</b:_valueSI>
+                  </Length>
+                  <NumCoursesBelow>2</NumCoursesBelow>
+                  <ReinforcementProperty>75ea5dd0-8ff5-4842-938d-ac6baf6ce64f</ReinforcementProperty>
+                </a:anyType>
+                <a:anyType i:type="ReinforcementLayerByCourse">
+                  <Length xmlns:b="http://schemas.datacontract.org/2004/07/RSWallCore">
+                    <b:_valueSI>2.1</b:_valueSI>
+                  </Length>
+                  <NumCoursesBelow>3</NumCoursesBelow>
+                  <ReinforcementProperty>75ea5dd0-8ff5-4842-938d-ac6baf6ce64f</ReinforcementProperty>
+                </a:anyType>
+                <a:anyType i:type="ReinforcementLayerByCourse">
+                  <Length xmlns:b="http://schemas.datacontract.org/2004/07/RSWallCore">
+                    <b:_valueSI>2.1</b:_valueSI>
+                  </Length>
+                  <NumCoursesBelow>4</NumCoursesBelow>
+                  <ReinforcementProperty>75ea5dd0-8ff5-4842-938d-ac6baf6ce64f</ReinforcementProperty>
+                </a:anyType>
+                <a:anyType i:type="ReinforcementLayerByCourse">
+                  <Length xmlns:b="http://schemas.datacontract.org/2004/07/RSWallCore">
+                    <b:_valueSI>2.1</b:_valueSI>
+                  </Length>
+                  <NumCoursesBelow>5</NumCoursesBelow>
+                  <ReinforcementProperty>75ea5dd0-8ff5-4842-938d-ac6baf6ce64f</ReinforcementProperty>
+                </a:anyType>
+                <a:anyType i:type="ReinforcementLayerByCourse">
+                  <Length xmlns:b="http://schemas.datacontract.org/2004/07/RSWallCore">
+                    <b:_valueSI>2.1</b:_valueSI>
+                  </Length>
+                  <NumCoursesBelow>6</NumCoursesBelow>
+                  <ReinforcementProperty>75ea5dd0-8ff5-4842-938d-ac6baf6ce64f</ReinforcementProperty>
+                </a:anyType>
+                <a:anyType i:type="ReinforcementLayerByCourse">
+                  <Length xmlns:b="http://schemas.datacontract.org/2004/07/RSWallCore">
+                    <b:_valueSI>2.1</b:_valueSI>
+                  </Length>
+                  <NumCoursesBelow>7</NumCoursesBelow>
+                  <ReinforcementProperty>75ea5dd0-8ff5-4842-938d-ac6baf6ce64f</ReinforcementProperty>
+                </a:anyType>
+                <a:anyType i:type="ReinforcementLayerByCourse">
+                  <Length xmlns:b="http://schemas.datacontract.org/2004/07/RSWallCore">
+                    <b:_valueSI>2.1</b:_valueSI>
+                  </Length>
+                  <NumCoursesBelow>8</NumCoursesBelow>
+                  <ReinforcementProperty>75ea5dd0-8ff5-4842-938d-ac6baf6ce64f</ReinforcementProperty>
+                </a:anyType>
+                <a:anyType i:type="ReinforcementLayerByCourse">
+                  <Length xmlns:b="http://schemas.datacontract.org/2004/07/RSWallCore">
+                    <b:_valueSI>2.1</b:_valueSI>
+                  </Length>
+                  <NumCoursesBelow>9</NumCoursesBelow>
+                  <ReinforcementProperty>75ea5dd0-8ff5-4842-938d-ac6baf6ce64f</ReinforcementProperty>
+                </a:anyType>
+              </ReinforcementLayers>
+            </ReinforcementLayout>
+            <SectionProfilePropertyID>5631ad37-c666-4db4-892c-b3966cbe1582</SectionProfilePropertyID>
+            <SoilRegions>
+              <BackslopeSoil>f2cfc381-0d7c-4145-95e5-781dc8da788d</BackslopeSoil>
+              <FoundationSoil>08f0a5bc-4eb0-4078-ae77-a5ee3ef2cdf6</FoundationSoil>
+              <LevelingPadSoil>6245903e-92c4-47e3-9d29-e3fc83350f44</LevelingPadSoil>
+              <PassiveSoil>f2cfc381-0d7c-4145-95e5-781dc8da788d</PassiveSoil>
+              <ReinforcedSoil>6245903e-92c4-47e3-9d29-e3fc83350f44</ReinforcedSoil>
+              <RetainedSoil>f2cfc381-0d7c-4145-95e5-781dc8da788d</RetainedSoil>
+              <ToggleBackslopeSoil>false</ToggleBackslopeSoil>
+            </SoilRegions>
+            <Surcharges xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+          </Data>
+          <EndPoint xmlns:a="http://schemas.datacontract.org/2004/07/System.Windows">
+            <a:_x>10</a:_x>
+            <a:_y>0</a:_y>
+          </EndPoint>
+          <FlipBackslope>false</FlipBackslope>
+          <SectionIndex>0</SectionIndex>
+          <StartPoint xmlns:a="http://schemas.datacontract.org/2004/07/System.Windows">
+            <a:_x>0</a:_x>
+            <a:_y>0</a:_y>
+          </StartPoint>
+          <TopElevation>1.9999999999999998</TopElevation>
+        </SectionDefinition>
+      </sections>
+    </WallDefinition>
+  </wallSectionDatas>
+  <wallUnitProperties>
+    <WallUnitModel>
+      <CenterOfGravity xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0.15</a:_valueSI>
+      </CenterOfGravity>
+      <Depth xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0.3</a:_valueSI>
+      </Depth>
+      <Height xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0.2</a:_valueSI>
+      </Height>
+      <ID>55fbfed9-5104-4632-9ba6-800acbba49f3</ID>
+      <InterlayerFrictionAngle xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueRadians>0.6108652381980153</a:_valueRadians>
+      </InterlayerFrictionAngle>
+      <InterlayerFrictionAngle2 xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueRadians>0.43633231299858238</a:_valueRadians>
+      </InterlayerFrictionAngle2>
+      <InterlayerMaxShearStrength xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>200000</a:_valueSI>
+      </InterlayerMaxShearStrength>
+      <InterlayerMinShearStrength xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>50000</a:_valueSI>
+      </InterlayerMinShearStrength>
+      <InterlayerTanShearStrength xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>100000</a:_valueSI>
+      </InterlayerTanShearStrength>
+      <MSEWallUnitType>Modular</MSEWallUnitType>
+      <ManufacturerLibrarySelection>None</ManufacturerLibrarySelection>
+      <ManufacturerLibrarySelectionShort>None</ManufacturerLibrarySelectionShort>
+      <ManufacturerLibrarySelectionTooltip>None</ManufacturerLibrarySelectionTooltip>
+      <Name>Wall unit 1</Name>
+      <ShearCapacityFunction>Constant</ShearCapacityFunction>
+      <UnitWeight xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>23000</a:_valueSI>
+      </UnitWeight>
+      <WallUnitType>MSE</WallUnitType>
+      <Width xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0.4</a:_valueSI>
+      </Width>
+      <color xmlns:a="http://schemas.datacontract.org/2004/07/System.Windows.Media">
+        <a:A>255</a:A>
+        <a:B>128</a:B>
+        <a:G>127</a:G>
+        <a:R>126</a:R>
+        <a:ScA>1</a:ScA>
+        <a:ScB>0.215860531</a:ScB>
+        <a:ScG>0.212230757</a:ScG>
+        <a:ScR>0.208636865</a:ScR>
+      </color>
+    </WallUnitModel>
+    <WallUnitModel>
+      <CenterOfGravity xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0.15</a:_valueSI>
+      </CenterOfGravity>
+      <Depth xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0.3</a:_valueSI>
+      </Depth>
+      <Height xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0.3</a:_valueSI>
+      </Height>
+      <ID>b173323f-bfd3-47e6-9082-56b0bc430a27</ID>
+      <InterlayerFrictionAngle xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueRadians>0.6108652381980153</a:_valueRadians>
+      </InterlayerFrictionAngle>
+      <InterlayerFrictionAngle2 xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueRadians>0.43633231299858238</a:_valueRadians>
+      </InterlayerFrictionAngle2>
+      <InterlayerMaxShearStrength xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>200000</a:_valueSI>
+      </InterlayerMaxShearStrength>
+      <InterlayerMinShearStrength xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>50000</a:_valueSI>
+      </InterlayerMinShearStrength>
+      <InterlayerTanShearStrength xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>100000</a:_valueSI>
+      </InterlayerTanShearStrength>
+      <MSEWallUnitType>Modular</MSEWallUnitType>
+      <ManufacturerLibrarySelection>None</ManufacturerLibrarySelection>
+      <ManufacturerLibrarySelectionShort>None</ManufacturerLibrarySelectionShort>
+      <ManufacturerLibrarySelectionTooltip>None</ManufacturerLibrarySelectionTooltip>
+      <Name>Wall unit 1</Name>
+      <ShearCapacityFunction>Constant</ShearCapacityFunction>
+      <UnitWeight xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>23000</a:_valueSI>
+      </UnitWeight>
+      <WallUnitType>Gabion</WallUnitType>
+      <Width xmlns:a="http://schemas.datacontract.org/2004/07/RSWallCore">
+        <a:_valueSI>0.3</a:_valueSI>
+      </Width>
+      <color xmlns:a="http://schemas.datacontract.org/2004/07/System.Windows.Media">
+        <a:A>255</a:A>
+        <a:B>128</a:B>
+        <a:G>127</a:G>
+        <a:R>126</a:R>
+        <a:ScA>1</a:ScA>
+        <a:ScB>0.215860531</a:ScB>
+        <a:ScG>0.212230757</a:ScG>
+        <a:ScR>0.208636865</a:ScR>
+      </color>
+    </WallUnitModel>
+  </wallUnitProperties>
+</RSWallProjectModel>
